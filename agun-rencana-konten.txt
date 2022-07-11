@@ -2,7 +2,11 @@ RENCANA KONTEN AGUN
 - JS
   * ES6
   * Framework JS
+    ^ Vue
+    ^ React
 - Struktur data dasar
 - PHP
+  ^ Laravel
 - Android
+- Python
 
