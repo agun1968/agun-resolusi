@@ -2,3 +2,5 @@ AGUN RESOLUSI
 - Menguasai Git dan GitHub
 - Mencoba 1 project yg sedang running di kelola dgn Git dan GitHub
 - Semua project dipush ke Git dan GitHub
+- Kelola semua project via Git dan GitHub (work everywhere)
+- Kolaborasi dgn Lalan GSP sbg latihan bersama
