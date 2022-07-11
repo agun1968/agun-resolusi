@@ -1,0 +1,7 @@
+RENCANA KONTEN AGUN
+- JS
+  * ES6
+  * Framework JS
+- PHP
+- Android
+
